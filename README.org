@@ -1,0 +1,6 @@
+#+title: README Krita art assets
+#+options: toc:t author:t title:t
+#+startup: showall
+#+author: James Dyer
+
+* Krita art assets
