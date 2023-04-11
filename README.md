@@ -1,0 +1,2 @@
+# Krita
+Krita art assets
